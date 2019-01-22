@@ -1,8 +1,12 @@
 {
-  "test":[
+  "users":[
     {
       "id":1,
       "name":"shawn"
+    },
+    {
+      "id":2,
+      "name":"brad"
     }
   ]
 }
